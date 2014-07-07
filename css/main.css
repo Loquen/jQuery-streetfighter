@@ -53,3 +53,23 @@ body {
 	left: 450px;
 	float: left;
 }
+
+.text {
+	font-family: verdana;
+	font-size: 20px;
+	font-weight: bold;
+	position: relative;
+	float: right;
+	right: 200px;
+	top: 200px;
+}
+
+.text2 {
+	font-family: verdana;
+	font-size: 20px;
+	font-weight: bold;
+	position: relative;
+	float: right;
+	right: 150px;
+	top: 300px;
+}
